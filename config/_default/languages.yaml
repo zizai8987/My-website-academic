@@ -4,7 +4,7 @@
 
 # Default language
 en:
-  languageCode: en-us
+  languageCode: zh-cn
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
@@ -17,6 +17,6 @@ en:
 #    description: Site description in Chinese...
 #  menu:
 #    main:
-#      - name: 传
+#      - name: 个人介绍
 #        url: '#about'
 #        weight: 1
